@@ -15,4 +15,3 @@ webdriver_manager
 pandas==1.5.0
 datetime
 python-dateutil>=2.8.1
-streamlit
