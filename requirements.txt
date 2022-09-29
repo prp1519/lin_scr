@@ -15,5 +15,4 @@ webdriver_manager
 pandas
 datetime
 python-dateutil==2.5.3
-base64
 streamlit
