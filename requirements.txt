@@ -13,7 +13,6 @@ selenium
 bs4
 webdriver_manager
 pandas
-calender
 datetime
 dateutil
 base64
